@@ -49,7 +49,7 @@ Each directory contains a `readme.md` file describing its contents.
 - [Nadège SINGAYE]  
 - [Rachidatou OUATTARA]  
 - [Séphora NLEMBA]
--  [Maya MENIAI   
+-  [Maya MENIAI]   
 
 ---
 
