@@ -1,1 +1,1 @@
-This folder contains the raw data files for the project.
+this file contains the results of the project 
